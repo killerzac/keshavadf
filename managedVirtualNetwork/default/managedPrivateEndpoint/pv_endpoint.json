@@ -1,0 +1,9 @@
+{
+	"name": "pv_endpoint",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/ca100631-8a52-44d0-a6ce-0a25466e9547/resourceGroups/keshav_rg/providers/Microsoft.Sql/servers/keshav",
+		"groupId": "sqlServer",
+		"ipAddress": null,
+		"resourceId": "/subscriptions/e6c92a32-6a0d-4a7c-a99f-84a429ff4db0/resourceGroups/vnet-e6c92a32-eastus-309-rg/providers/Microsoft.Network/privateEndpoints/keshav-data-factory.pv_endpoint"
+	}
+}
